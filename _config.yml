@@ -1,7 +1,7 @@
 title: Daniel Sanchez
 description: Senior Software Engineer
 baseurl: ""
-url: https://piazzai.github.io/cvless
+url: https://dfsavi.dev
 
 # site settings
 taglong: Senior Software Engineer
@@ -10,10 +10,10 @@ tagshort: Sr Software Engineer
 # author settings
 author:
   name: Daniel Sanchez
-  email: username@domain.com
+  email:
 photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+address:
+phone:
 
 # social media links
 social:
